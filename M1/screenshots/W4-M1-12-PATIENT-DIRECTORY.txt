@@ -1,0 +1,14 @@
+HTTP/2 200
+content-type: text/html; charset=UTF-8
+server: LiteSpeed
+x-turbo-charged-by: LiteSpeed
+
+Index of /patient/
+
+Discovered:
+- /patient/reports/
+- /patient/download.php
+- /patient/error_log
+- /patient/login.php
+- /patient/logout.php
+- /patient/portal.php

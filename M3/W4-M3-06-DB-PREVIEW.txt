@@ -1,0 +1,25 @@
+Database Backup Exposure
+
+File:
+- mediroza_db_backup_2019.sql
+
+Database:
+- mediroza_hr
+
+Observed tables:
+- staff
+
+Staff table fields observed:
+- id
+- full_name
+- job_title
+- department
+- email
+- phone
+- national_id
+- monthly_salary_zar
+- date_joined
+
+Finding:
+- An accessible database backup contained confidential staff records.
+- The original database contents are intentionally excluded from the public repository.

@@ -1,0 +1,26 @@
+Shareholder Database Exposure
+
+Source:
+- mediroza_db_backup_2019.sql
+
+Database:
+- mediroza_hr
+
+Table:
+- shareholders
+
+Observed fields:
+- id
+- shareholder_name
+- share_percent
+- shares_held
+- share_class
+
+Finding:
+- The exposed database backup contained shareholder records.
+- The shareholder table included ownership percentages, number of shares held, and share classifications.
+- Actual shareholder names and financial ownership details have been redacted from this public evidence.
+
+Public Evidence:
+- Shareholder data exposure confirmed.
+- Sensitive shareholder information intentionally redacted for public release.

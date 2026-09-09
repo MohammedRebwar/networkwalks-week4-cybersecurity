@@ -1,0 +1,14 @@
+PDF version 1.4
+Security Handler: Standard
+V: 2
+R: 3
+P: -4
+Length: 128
+Encrypted Metadata: True
+FileID: [REDACTED]
+U: [REDACTED]
+O: [REDACTED]
+
+Password recovery:
+- User password successfully recovered during authorized lab testing.
+- Password: [REDACTED]

@@ -1,0 +1,19 @@
+HTTP/2 200
+x-powered-by: PHP/8.2.33
+content-type: text/html; charset=UTF-8
+server: LiteSpeed
+x-turbo-charged-by: LiteSpeed
+
+Staff Login
+
+Application:
+- Mediroza CMS 1.4.2
+- Staff login page is accessible.
+
+Form:
+- POST /staff/login.php
+- Staff ID field
+- Password field
+
+Access notice:
+- Internal staff access only.

@@ -1,0 +1,16 @@
+HTTP/2 200 
+content-type: text/plain
+last-modified: Fri, 04 Sep 2026 02:03:53 GMT
+accept-ranges: bytes
+content-length: 132
+date: Sun, 06 Sep 2026 22:26:28 GMT
+server: LiteSpeed
+x-turbo-charged-by: LiteSpeed
+
+# robots.txt
+User-agent: *
+Disallow: /patient/
+Disallow: /staff/
+Disallow: /old/
+
+Sitemap: https://medirozahospital.com/sitemap.xml

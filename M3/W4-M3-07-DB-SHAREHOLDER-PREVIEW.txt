@@ -1,0 +1,30 @@
+Database Backup Exposure
+
+Source:
+- mediroza_db_backup_2019.sql
+
+Database:
+- mediroza_hr
+
+Observed table:
+- staff
+
+Observed fields:
+- id
+- full_name
+- job_title
+- department
+- email
+- phone
+- national_id
+- monthly_salary_zar
+- date_joined
+
+Finding:
+- An exposed database backup contained confidential staff records.
+- The database structure and sensitive record contents were verified during authorized testing.
+- Personal information and financial records have been removed from this public evidence.
+
+Public Evidence:
+- Database backup exposure confirmed.
+- Sensitive records intentionally redacted for public release.
